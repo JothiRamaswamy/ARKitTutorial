@@ -419,6 +419,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5EAY39XXBE;
 				INFOPLIST_FILE = ARKitTutorial/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jothi.ARKitTutorial;
@@ -432,6 +433,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5EAY39XXBE;
 				INFOPLIST_FILE = ARKitTutorial/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jothi.ARKitTutorial;
@@ -518,6 +520,7 @@
 				8750D97D1F0FFBA40047EEF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8750D97E1F0FFBA40047EEF2 /* Build configuration list for PBXNativeTarget "ARKitTutorialTests" */ = {
 			isa = XCConfigurationList;
@@ -526,6 +529,7 @@
 				8750D9801F0FFBA40047EEF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8750D9811F0FFBA40047EEF2 /* Build configuration list for PBXNativeTarget "ARKitTutorialUITests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +538,7 @@
 				8750D9831F0FFBA40047EEF2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
